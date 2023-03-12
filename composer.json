@@ -19,7 +19,7 @@
     "require": {
         "php": "^8.0",
         "cartalyst/support": "^6.0",
-        "illuminate/support": "^9.0"
+        "illuminate/support": "^10  .0"
     },
     "require-dev": {
         "cartalyst/php-cs-fixer-config": "^2.0",
